@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Exam Dashboard",
+  "description": "A clean, Notion-style admin dashboard for managing exams, candidates, and results.",
+  "requestFramePermissions": []
+}
